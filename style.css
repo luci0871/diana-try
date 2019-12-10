@@ -54,7 +54,6 @@
  .paint {
      animation: buttonleft-anim 3s;
      text-align: center;
-     background-color: red;
      opacity: 1;
      /*transform: matrix(1, 0, 0, 1, 0, 0);*/
  }
